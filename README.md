@@ -1,2 +1,3 @@
 # yomup
-yomup
+
+RoR and angularjs app
